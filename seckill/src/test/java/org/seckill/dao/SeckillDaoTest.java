@@ -9,7 +9,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import javax.annotation.Resource;
 
 /**
- * 配置spring和junit整合，junit启动加载springIOC容器
+ * 配置spring和junit整合，junit启动加载springIOC容器 1111
  * spring-test,junit
  */
 @RunWith(SpringJUnit4ClassRunner.class)
